@@ -21,7 +21,6 @@ Atļauts:
 izmantot personīgām un izglītības vajadzībām;
 modificēt un uzlabot programmas kodu;
 izplatīt ar atsauci uz autoru.
-
- nedrikst pārdot programmu bez autora atļaujas;
-
+nedrikst pārdot programmu bez autora atļaujas;
+Sis projekts ir uzrakstits ar IMT licence
 

@@ -16,5 +16,12 @@ Cementa daudzumu (kg)
 Smilšu daudzumu (kg)
 Ūdens daudzumu (kg)
 Kopējās izmaksas 
-Licenci:
+Licenci:Šo programmu drīkst brīvi izmantot mācību nolūkiem.
+Atļauts:
+izmantot personīgām un izglītības vajadzībām;
+modificēt un uzlabot programmas kodu;
+izplatīt ar atsauci uz autoru.
+
+ nedrikst pārdot programmu bez autora atļaujas;
+
 
